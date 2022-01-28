@@ -1,5 +1,5 @@
 <div id="header" align="center">
-Hey There , <img src="https://media.giphy.com/media/OpBA2nKQog7LENz8Of/giphy.gif" width="200">
+Hey There , <img src="https://media.giphy.com/media/OpBA2nKQog7LENz8Of/giphy.gif" width="100">
 </div>
 
 This is Pruthvi R , Welcome to My Profile
