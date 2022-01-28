@@ -3,7 +3,7 @@ Hey There , <img src="https://media.giphy.com/media/OpBA2nKQog7LENz8Of/giphy.gif
 </div>
 
 <div id="header" align="center">
-This is Pruthvi R , Welcome to My Profile
+This is Pruthvi R , Welcome to My Profile. <br />
 I'm Performance Engineer mainly working on Web App / API Performance. 
  
  <br /><img src="https://media.giphy.com/media/lPiswxr19ibbJJWJE1/giphy-downsized-large.gif" width="200">
