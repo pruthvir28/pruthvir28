@@ -6,7 +6,7 @@ Hey There , <img src="https://media.giphy.com/media/OpBA2nKQog7LENz8Of/giphy.gif
 This is Pruthvi R , Welcome to My Profile
 I'm Performance Engineer mainly working on Web App / API Performance. 
  
- <img src="https://media.giphy.com/media/lPiswxr19ibbJJWJE1/giphy-downsized-large.gif" width="100">
+ <br /><img src="https://media.giphy.com/media/lPiswxr19ibbJJWJE1/giphy-downsized-large.gif" width="200">
 </div>
   
   
