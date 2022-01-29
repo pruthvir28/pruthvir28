@@ -21,7 +21,7 @@ I'm Performance Engineer mainly working on Web App / API Performance validation.
  
  Senior Tech Associate - Performance Engineering (February 2010 - Dec 2013)
  TechMahindra
-
+</div>
   
   
 
