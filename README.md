@@ -28,10 +28,10 @@ I'm Performance Engineer mainly working on Web App / API Performance validation.
 
 <div id="work-histoy" align="left">
 
- Senior Performance Engineer - Oracle Cloud Infra (December 2013 - Current)
+ Senior Performance Engineer - Oracle Cloud Infra (December 2013 - Current)<br/>
  Oracle
  
- Senior Tech Associate - Performance Engineering (February 2010 - Dec 2013)
+ Senior Tech Associate - Performance Engineering (February 2010 - Dec 2013)<br/>
  TechMahindra
 </div>
   
