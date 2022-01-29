@@ -14,8 +14,9 @@ I'm Performance Engineer mainly working on Web App / API Performance validation.
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<div id="work-histoy" align="left">
 **Work History**  
+<div id="work-histoy" align="left">
+
  Senior Performance Engineer - Oracle Cloud Infra (December 2013 - Current)
  Oracle
  
