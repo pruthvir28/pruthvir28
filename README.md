@@ -14,7 +14,18 @@ I'm Performance Engineer mainly working on Web App / API Performance validation.
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-**Work History**  
+
+### Tools and Languages
+<div id="tools" align="left">
+ <img src="https://jmeter.apache.org/images/logo.svg" width="50" />
+ <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" width="50" />
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" /> 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/gatling/gatling-plain-wordmark.svg" width="50" />
+</div>
+
+### Work History  
+
 <div id="work-histoy" align="left">
 
  Senior Performance Engineer - Oracle Cloud Infra (December 2013 - Current)
@@ -24,7 +35,9 @@ I'm Performance Engineer mainly working on Web App / API Performance validation.
  TechMahindra
 </div>
   
-  
+### Contributions
+
+
 
 
 
