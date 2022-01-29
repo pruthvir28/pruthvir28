@@ -17,11 +17,14 @@ I'm Performance Engineer mainly working on Web App / API Performance validation.
 
 ### Tools and Languages
 <div id="tools" align="left">
- <img src="https://jmeter.apache.org/images/logo.svg" width="50" />
+ <img src="https://jmeter.apache.org/images/logo.svg" width="70"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" width="50">
  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50"/>
+ <img src="https://raw.githubusercontent.com/prometheus/docs/ca2961b495c3e2a1e4586899c26de692fa5a28e7/static/prometheus_logo_orange_circle.svg" width="50">
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" width="50" />
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" /> 
  <img src="https://github.com/devicons/devicon/blob/master/icons/gatling/gatling-plain-wordmark.svg" width="50" />
+ <img src="https://upload.wikimedia.org/wikipedia/en/6/61/HPE_LoadRunner_logo.png" width="50"/>
 </div>
 
 ### Work History  
