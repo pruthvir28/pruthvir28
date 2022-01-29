@@ -8,6 +8,13 @@ I'm Performance Engineer mainly working on Web App / API Performance.
  
  <br /><img src="https://media.giphy.com/media/lPiswxr19ibbJJWJE1/giphy-downsized-large.gif" width="200">
 </div>
+
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
   
   
 
